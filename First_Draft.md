@@ -1,4 +1,5 @@
 # Boat Bluetooth Earphones User Guide
+![image](https://github.com/user-attachments/assets/e9c284b6-157c-4437-9a47-ec964cdc4bad)
 
 ## Table of Contents
 
@@ -31,7 +32,8 @@ Thank you for purchasing **Boat Bluetooth Earphones (Model: Rockerz 450 Pro)**. 
 
 ## 3. Device Overview
 
-![Earphone Diagram](#)  
+![image](https://github.com/user-attachments/assets/7fb1d195-efa5-4f3f-be50-b5378ec05f27)
+
 *Diagram showing earphone components: buttons, ear cushions, charging port, and indicator light.*
 
 ### Components:
@@ -48,7 +50,8 @@ Thank you for purchasing **Boat Bluetooth Earphones (Model: Rockerz 450 Pro)**. 
 
 ### Unboxing:
 
-![Unboxing Items](#)  
+![image](https://github.com/user-attachments/assets/6dfbd69d-c55e-4b7b-a618-bdbde2bd77c7)
+  
 *Image of earphones, USB Type-C cable, user guide, and warranty card.*
 
 Verify contents:
