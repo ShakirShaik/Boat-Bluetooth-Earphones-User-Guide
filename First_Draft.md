@@ -76,7 +76,8 @@ Verify contents:
 
 ### First-Time Pairing:
 
-![Pairing Process](#)  
+![image](https://github.com/user-attachments/assets/f3c8f697-4cfc-4d63-a2ca-a712818c3c43)
+  
 *Image illustrating Bluetooth pairing on a smartphone.*
 
 1. Turn on the earphones by holding the Power button for 3 seconds.
@@ -95,7 +96,8 @@ Verify contents:
 
 ### Controls:
 
-![Button Functions](#)  
+![image](https://github.com/user-attachments/assets/48d06d7c-fa6b-494b-add4-098d6f604b4f)
+  
 *Diagram labeling each button and its function.*
 
 - **Power On/Off:** Hold the Power button for 3 seconds.
@@ -120,7 +122,8 @@ Activate by pressing and holding the Play button for 2 seconds.
 
 ## 8. Troubleshooting
 
-![Troubleshooting Diagram](#)  
+![image](https://github.com/user-attachments/assets/8bf20a33-cf26-4c04-adb5-00d9d2833bef)
+  
 *Flowchart showing common issues and solutions.*
 
 ---
