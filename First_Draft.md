@@ -1,5 +1,5 @@
 # Boat Bluetooth Earphones User Guide
-![image](https://github.com/user-attachments/assets/e9c284b6-157c-4437-9a47-ec964cdc4bad)
+![Illustration of Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/594cc6bf-13f9-4a16-a33a-6556700a14c8)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ Thank you for purchasing **Boat Bluetooth Earphones (Model: Rockerz 450 Pro)**. 
 
 ## 3. Device Overview
 
-![image](https://github.com/user-attachments/assets/7fb1d195-efa5-4f3f-be50-b5378ec05f27)
+![Components of Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/671374eb-b191-452d-bf7d-b1fd098473c4)
 
 *Diagram showing earphone components: buttons, ear cushions, charging port, and indicator light.*
 
@@ -50,7 +50,7 @@ Thank you for purchasing **Boat Bluetooth Earphones (Model: Rockerz 450 Pro)**. 
 
 ### Unboxing:
 
-![image](https://github.com/user-attachments/assets/6dfbd69d-c55e-4b7b-a618-bdbde2bd77c7)
+![Unboxing of the Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/06120c83-8867-4f9b-a54e-4b18b48a207c)
   
 *Image of earphones, USB Type-C cable, user guide, and warranty card.*
 
@@ -63,9 +63,6 @@ Verify contents:
 
 ### Charging:
 
-![Charging Diagram](#)  
-*Diagram showing how to connect the earphones to a USB charger.*
-
 1. Connect the USB Type-C cable to the charging port.
 2. Plug the cable into a power adapter or USB port.
 3. The indicator light will turn red while charging and green when fully charged.
@@ -76,7 +73,7 @@ Verify contents:
 
 ### First-Time Pairing:
 
-![image](https://github.com/user-attachments/assets/f3c8f697-4cfc-4d63-a2ca-a712818c3c43)
+![Pairing Process of Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/ecca6264-2f37-4247-ab1e-d4534c02c412)
   
 *Image illustrating Bluetooth pairing on a smartphone.*
 
@@ -96,7 +93,7 @@ Verify contents:
 
 ### Controls:
 
-![image](https://github.com/user-attachments/assets/48d06d7c-fa6b-494b-add4-098d6f604b4f)
+![Control Buttons of Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/ed6eb81b-0741-4201-9585-75f1c1e7599a)
   
 *Diagram labeling each button and its function.*
 
@@ -122,7 +119,7 @@ Activate by pressing and holding the Play button for 2 seconds.
 
 ## 8. Troubleshooting
 
-![image](https://github.com/user-attachments/assets/8bf20a33-cf26-4c04-adb5-00d9d2833bef)
+![Troubleshooting Steps for Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/2e5b76ef-0c0d-4689-a41c-db6527ee6846)
   
 *Flowchart showing common issues and solutions.*
 
