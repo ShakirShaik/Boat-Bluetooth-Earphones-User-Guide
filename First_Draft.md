@@ -1,5 +1,6 @@
 # Boat Bluetooth Earphones User Guide
-![Illustration of Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/594cc6bf-13f9-4a16-a33a-6556700a14c8)
+
+![1212_5](https://github.com/user-attachments/assets/338569e2-d51c-4e49-90b1-1de04285bddb)
 
 ## Table of Contents
 
@@ -32,17 +33,22 @@ Thank you for purchasing **Boat Bluetooth Earphones (Model: Rockerz 450 Pro)**. 
 
 ## 3. Device Overview
 
-![Components of Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/671374eb-b191-452d-bf7d-b1fd098473c4)
+![1211_1](https://github.com/user-attachments/assets/3728d695-c0e0-4554-a6a8-10c2995b9abd)
 
-*Diagram showing earphone components: buttons, ear cushions, charging port, and indicator light.*
+
+*Diagram showing earphone components.*
 
 ### Components:
 
-- **Earphone Body:** Features built-in controls.
-- **Ear Cushions:** For comfortable extended wear.
-- **Charging Port:** USB Type-C for charging.
-- **Control Buttons:** Play/Pause, Volume Up/Down, Power.
-- **Indicator Light:** Displays pairing and battery status.
+- **Magnetic Earbuds:** Secure fit with a magnetic design for easy storage.
+- **Silicon Ear Hooks:** Provides a comfortable and stable fit during use.
+- **Flexible Neckband:** Lightweight and adaptable for extended comfort.
+- **Multi-functional Power Button:** Controls power on/off, pairing, and play/pause functions.
+- **Volume - (Minus)/Previous Song Button:** Decrease volume or skip to the previous track.
+- **Volume + (Plus)/Next Song Button:** Increase volume or skip to the next track.
+- **Micro USB Charging Port:** For recharging the earphones.
+- **Microphone (Mic):** Enables hands-free calling and voice commands.
+- **LED Indicator:** Displays the status of pairing, charging, and battery.
 
 ---
 
@@ -50,7 +56,8 @@ Thank you for purchasing **Boat Bluetooth Earphones (Model: Rockerz 450 Pro)**. 
 
 ### Unboxing:
 
-![Unboxing of the Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/06120c83-8867-4f9b-a54e-4b18b48a207c)
+![1213_4](https://github.com/user-attachments/assets/0d6c95be-6e54-4ffc-b59b-da3e54095c4a)
+
   
 *Image of earphones, USB Type-C cable, user guide, and warranty card.*
 
@@ -71,11 +78,11 @@ Verify contents:
 
 ## 5. Pairing with Devices
 
-### First-Time Pairing:
+![1214_1](https://github.com/user-attachments/assets/52e32489-ed84-4fad-8c47-fefdd448e8cf)
 
-![Pairing Process of Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/ecca6264-2f37-4247-ab1e-d4534c02c412)
-  
-*Image illustrating Bluetooth pairing on a smartphone.*
+*Image illustrates the extended playback capability..*
+
+### First-Time Pairing:
 
 1. Turn on the earphones by holding the Power button for 3 seconds.
 2. Activate Bluetooth on your device and search for available devices.
@@ -93,8 +100,8 @@ Verify contents:
 
 ### Controls:
 
-![Control Buttons of Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/ed6eb81b-0741-4201-9585-75f1c1e7599a)
-  
+![1215_1](https://github.com/user-attachments/assets/f9d35403-c30d-4a63-ab0d-7d5624358284)
+
 *Diagram labeling each button and its function.*
 
 - **Power On/Off:** Hold the Power button for 3 seconds.
@@ -119,9 +126,52 @@ Activate by pressing and holding the Play button for 2 seconds.
 
 ## 8. Troubleshooting
 
-![Troubleshooting Steps for Boat Bluetooth Earphones (Model_ Rockerz 450 Pro)](https://github.com/user-attachments/assets/2e5b76ef-0c0d-4689-a41c-db6527ee6846)
-  
-*Flowchart showing common issues and solutions.*
+### Common Issues and Solutions
+
+1. **Earphones not pairing with a device**  
+   - **Solution:**  
+     - Ensure the earphones are in pairing mode. Check the manual for specific instructions.  
+     - Turn off Bluetooth on the previously paired device to avoid interference.  
+     - Restart both the earphones and the device you are trying to pair.  
+     - Delete the earphones from the device’s paired list and try pairing again.  
+
+2. **Low or distorted sound quality**  
+   - **Solution:**  
+     - Check if the earphones are within the Bluetooth range of the device (typically 10 meters).  
+     - Ensure there are no physical obstructions or interference between the earphones and the device.  
+     - Clean the earbuds to remove any dust or debris affecting sound output.  
+     - Verify that the audio source quality is good.  
+
+3. **One earbud not working**  
+   - **Solution:**  
+     - Check if the earbuds are properly connected or synced with each other.  
+     - Reset the earphones to factory settings and re-pair them.  
+     - Charge the earphones to ensure both sides have sufficient battery.  
+
+4. **Battery drains quickly**  
+   - **Solution:**  
+     - Ensure the earphones are fully charged before use.  
+     - Avoid using high volume, which consumes more power.  
+     - Disable features like ANC (Active Noise Cancellation) if not needed.  
+     - Check if the earphones are automatically disconnecting and reconnecting, which can drain the battery.  
+
+5. **Microphone not working during calls**  
+   - **Solution:**  
+     - Ensure the microphone is not muted on the connected device.  
+     - Check the device’s settings to ensure the earphones are selected as the input audio source.  
+     - Make sure the earphones’ mic is not blocked by dirt or debris.  
+
+6. **Earphones not charging**  
+   - **Solution:**  
+     - Check if the charging cable and port are clean and free from dust or damage.  
+     - Ensure you are using a compatible charging adapter.  
+     - Try using a different charging cable or power source.  
+
+7. **Bluetooth keeps disconnecting**  
+   - **Solution:**  
+     - Ensure the device and earphones are within the Bluetooth range.  
+     - Avoid areas with high Bluetooth interference (e.g., near Wi-Fi routers).  
+     - Reset the earphones and re-pair them with the device.
 
 ---
 
